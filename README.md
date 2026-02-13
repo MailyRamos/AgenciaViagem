@@ -1,8 +1,8 @@
 # AgenciaViagem_Alunos
 
 <p align="center">
-  <img src="../AgenciaViagem/Captura de tela 2026-02-13 154453.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
-  <img src="../AgenciaViagem/Captura de tela 2026-02-13 154525.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
+  <img src="Captura de tela 2026-02-13 154453.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
+  <img src="Captura de tela 2026-02-13 154525.png" alt="Preview do Projeto Agencia de Viagem" width="100%">
 </p>
 
 ## 💻 Sobre o Projeto
